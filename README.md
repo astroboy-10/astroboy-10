@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astroboy-10
 - 👀 I’m interested in Computational Astrophysics, Cosmology, GWs, and Particle Physics
 - 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on Gravitational Wave Physics, Particle Physics, Optics, Non-linear Physics
+- 💞️ I’m looking to collaborate on Cosmology, Gravitational Wave Physics, Particle Physics, Optics, Non-linear Physics
 - 📫 How to reach me ... email/text
 
 <!---
